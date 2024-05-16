@@ -1,0 +1,12 @@
+---
+title: "wk 7 section"
+author: "Kinga Bihari"
+format: html
+editor: visual
+---
+
+Here is some code:
+```{r}
+library(tidyverse)
+```
+
