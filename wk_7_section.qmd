@@ -7,6 +7,6 @@ editor: visual
 
 Here is some code:
 ```{r}
-library(tidyverse)
+library(tidyverse) # packages
 ```
 
